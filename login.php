@@ -20,10 +20,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         // $insert = "INSERT INTO users (id, password) VALUES ('$id', '$password')";
         // if ($conn->query($insert)) {
         //     $_SESSION['id'] = $id;
-        //     header('Location: login.html');
+        //     header('Location: index.html');
         // } else {
             echo "Xatolik yuz berdi!";
-            header('Location: login.html');
+            header('Location: index.html');
 
         // }
     }

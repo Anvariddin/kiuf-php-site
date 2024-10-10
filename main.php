@@ -8,10 +8,10 @@
 
         ?>
     <br>
-    <a href="kutubxona/index.html"><button style="border-radius: 15px; padding: 15px; color: red;" >Go to main</button></a>
+    <a href="kutubxona/index.html"><button style="border-radius: 15px; padding: 15px; color: red;">Go to main</button></a>
     <br>
     <!-- <a href="my_site/index.html">Anvariddin.uz</a> -->
 
     <br>
-    <a href="login.html">LOGUOT</a>
+    <a href="index.html">LOGUOT</a>
 </center>
